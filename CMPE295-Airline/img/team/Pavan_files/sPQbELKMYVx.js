@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["We8p+"]); }
+
+__d('ReactComposerTimelineMediaPostButtonContainer.react',['ReactComposerContextMixin','ReactComposerMediaPostButtonContainerMixin','ReactComposerTimelineStore','React'],function a(b,c,d,e,f,g){if(c.__markCompiled)c.__markCompiled();var h=c('React').createClass({displayName:'ReactComposerTimelineMediaPostButtonContainer',mixins:[c('ReactComposerContextMixin'),c('ReactComposerMediaPostButtonContainerMixin')],componentDidMount:function(){c('ReactComposerTimelineStore').registerComposerID(this.context.composerID);}});f.exports=h;},null);
