@@ -16,6 +16,7 @@
 7. JavaScript
 8. Angular.JS
 9. D3.Js
+10. Machine Learning
 
 
 
